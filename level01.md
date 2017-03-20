@@ -32,3 +32,46 @@ Herzlichen Glückwunsch, Du hast Dein erstes TXT-Brickly-Programm erstellt.
 Einen Lösungsvorschlag findest Du hier: [Tu_01_01](/img/Tu_01_01.png)
 
 Für diese Aufgabe gibt es kein herunterladbares Beispielprogramm.
+
+
+## 2.ii Spot an
+
+Nachdem Du jetzt mit Brickly eine erste Botschaft ausgegeben hast, folgt gleich noch ein ganz großer Schritt.
+Der TXT soll ja auch dazu dienen, fischertechnik-Modelle zu steuern. Und damit fangen wir jetzt an!
+
+## 2.ii.a An und aus
+
+### Die Aufgabe
+
+Erstelle ein Brickly-Programm, daß eine an Ausgang O1 angeschlossene Lampe ein- und wieder ausschaltet.
+
+### Das Modell
+
+Das fischertechnik-Modell zu dieser Aufgabe ist recht überschaubar. Du benötigst eine fischertechik-Lampe im Leuchtstein und ein zweiadriges Kabel mit Steckern.
+Natürlich kannst Du noch eine bunte Leuchtkappe auf die Lampe setzen - das bleibt Dir überlassen.
+Verbinde das Kabel mit dem Leuchtstein und dem TXT. Am TXT steckst Du den roten Stecker in den *Ausgang O1*, den grünen Stecker an einen der mit Masse (auf dem Kopf stehendes "T") gekennzeichneten Anschlüsse der Zähler 1-4 (C1-C4).
+Fallst Du statt einer Glühbirne eine LED verwendest, achte auf die richtige Polung am Leuchtstein!
+![Im_HW_01_02_i01.png](/img/Im_HW_01_02_i01.png)
+
+### Lösungshilfe
+
+Neben dem bereits bekannten blauen Programmkopf brauchst Du:
+- Den "schalte Ausgang"-Block
+
+    Er schaltet Ausgänge. Du brauchst ihn zeimal, einmal zum ein- und einmal zum ausschalten.
+
+Und damit die Lampe nicht sofort wieder ausgeht, muß das Programm zwischen Ein- und Ausschalten eine Pause machen.
+Dazu verwendest Du den
+- "warte"-Block
+
+    Er sorgt dafür, daß der Programmablauf für die angegebene Sekundenzahl angehalten wird.
+
+### Beispiellösung
+[Hier](/img/Tu_01_02.png) ist eine Lösung zu finden.
+
+Für diese Aufgabe gibt es kein herunterladbares Beispielprogramm.
+
+
+
+
+
