@@ -15,8 +15,10 @@ Erstelle ein Brickly-Programm, daß "Hallo Welt!" ausgibt.
 Du brauchst genau zwei Bausteine:
 
 - Den Programmkopf
-    Der blaue Programmkopf ist schon beim Start vorhanden. Mit ihm beginnt das Brickly-Programm
-- Den "gib aus"-Baustein
+
+   Der blaue Programmkopf ist schon beim Start vorhanden. Mit ihm beginnt das Brickly-Programm
+- Den "gib aus"-Baustein.
+    
     Er kann verschiedenste Informationen ausgeben und ist in seiner einfachsten Form direkt für eine Textausgabe eingestellt.
 
 Setze die Bausteine passend zusammen und gib einen Text Deiner Wahl ein (es muß ja nicht immer "Hallo Welt!" sein).
