@@ -29,6 +29,6 @@ Herzlichen Glückwunsch, Du hast Dein erstes TXT-Brickly-Programm erstellt.
 
 ### Beispiellösung
 
-Einen Lösungsvorschlag findest Du hier: ![Tu_01_01](/img/Tu_01_01.png)
+Einen Lösungsvorschlag findest Du hier: [Tu_01_01](/img/Tu_01_01.png)
 
 Für diese Aufgabe gibt es kein herunterladbares Beispielprogramm.
