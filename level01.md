@@ -87,6 +87,11 @@ Jetzt soll es ein bisschen bunter werden. Der TXT hat ja insgesamt 8 Ausgänge, 
 
 Nachdem Du eine Lampe ein- und ausgeschaltet hast, wird es Dir sicher nicht schwerfallen, auch mehrere Lampen zu schalten. Deshalb lernen wir jetzt gleich noch einen neuen Baustein kennen, die "wiederhole"-Schleife. In diesen Baustein können weitere Bausteine eingefügt werden, die dann endlos immer wieder abgearbeitet werden, denn wir wollen ein Lauflicht mit drei Lampen bauen, die nacheinander ein- und wieder ausgeschaltet werden, und das solange, bis wir das Programm wieder stoppen.
 
+### Das Modell
+
+Schließe insgesamt drei Lampen an den TXT an. Benutze die Ausgänge O1 bis O3.
+![Lauflicht](/img/Im_HW_01_02_i02.png)
+
 ### Lösungshilfe
 
 An Bausteinen brauchst Du:
