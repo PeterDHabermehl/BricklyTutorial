@@ -121,6 +121,7 @@ Es gibt kein herunterladbares Beispielprogramm für diese Aufgabe.
 Denk Dir andere Blinkmuster aus, laß die Lampen in anderer Reihenfolge an- und ausgehen, z.B. so:
 [Alle an - alle aus](/img/Tu_01_02b2.png)
 
+[Video](/media/Lauflicht.webm)
 
 ***
 
