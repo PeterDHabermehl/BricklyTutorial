@@ -123,6 +123,11 @@ Denk Dir andere Blinkmuster aus, laß die Lampen in anderer Reihenfolge an- und 
 
 [Video](/media/Lauflicht.webm)
 
+Auch kannst Du schon jetzt eine Ampel bauen. Wenn Du eine rote, eine grüne und eine gelbe Leuchtkappe und eben auch drei Leuchtsteine hast, probiere folgendes:
+
+Ampel grün - warte 5 sek. - Ampel gelb - warte 1 sek. - Ampel rot - warte 5 sek. - Ampel rot+gelb - warte 1 sek. - beginne von vorne
+
+
 ***
 
 
