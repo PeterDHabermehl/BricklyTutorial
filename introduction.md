@@ -11,5 +11,5 @@ Weiterhin wird zu jeder Aufgabe eine Beispiellösung angegeben. Dabei ist zu bea
 Brickly ermöglicht ab Erfahrungslevel 3 das Anlegen mehrer Projekte. Im Zusammenspiel mit der App "BrickMCP" ist es dann möglich, Brickly-Projekte zu sichern und wieder hochzuladen.
 Dementsprechend werden ab Level 3 auch herunterladbare Programme oder Programmfragmente zur Ergänzung des Tutorials hier angeboten.
 
-
+Viel Spaß beim Lernen und Experimentieren!
 
