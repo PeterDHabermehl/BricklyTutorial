@@ -42,6 +42,8 @@ Der TXT soll ja auch dazu dienen, fischertechnik-Modelle zu steuern. Und damit f
 
 ## 2.ii.a An und aus
 
+Zunächst wollen wir ausprobieren, wie ein Ausgang des TXT ein- und ausgeschaltet wird.
+
 ### Die Aufgabe
 
 Erstelle ein Brickly-Programm, daß eine an Ausgang O1 angeschlossene Lampe ein- und wieder ausschaltet.
@@ -77,6 +79,38 @@ Für diese Aufgabe gibt es kein herunterladbares Beispielprogramm.
 
 ***
 
+## 2.ii.b Disco
 
+Jetzt soll es ein bisschen bunter werden. Der TXT hat ja insgesamt 8 Ausgänge, so daß wir noch weitere Lampen anschließen und steuern können.
+
+### Die Aufgabe
+
+Nachdem Du eine Lampe ein- und ausgeschaltet hast, wird es Dir sicher nicht schwerfallen, auch mehrere Lampen zu schalten. Deshalb lernen wir jetzt gleich noch einen neuen Baustein kennen, die "wiederhole"-Schleife. In diesen Baustein können weitere Bausteine eingefügt werden, die dann endlos immer wieder abgearbeitet werden, denn wir wollen ein Lauflicht mit drei Lampen bauen, die nacheinander ein- und wieder ausgeschaltet werden, und das solange, bis wir das Programm wieder stoppen.
+
+### Lösungshilfe
+
+An Bausteinen brauchst Du:
+- Den blauen Programmkopf
+- Den "schalte Ausgang"-Block
+- Den "warte"-Block
+- Den "wiederhole"-Block
+
+Überleg Dir genau, welche Befehle in welcher Reihenfolge ausgeführt werden müssen, z.B.
+- Lampe 1 an
+- warten
+- Lampe 1 aus
+usw.
+
+Du brauchst verschiedene Bausteine mehrfach, damit das Programm funktioniert.
+
+Viel Erfolg :-)
+
+### Beispiellösung
+
+[Hier](/img/Tu_01_02b.png) ist ein Lösungsvorschlag.
+
+Es gibt kein herunterladbares Beispielprogramm für diese Aufgabe.
+
+***
 
 
