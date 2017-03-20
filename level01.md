@@ -59,7 +59,7 @@ Fallst Du statt einer Glühbirne eine LED verwendest, achte auf die richtige Pol
 Neben dem bereits bekannten blauen Programmkopf brauchst Du:
 - Den "schalte Ausgang"-Block
 
-    Er schaltet Ausgänge. Du brauchst ihn zeimal, einmal zum ein- und einmal zum ausschalten.
+    Er schaltet Ausgänge. Du brauchst ihn zweimal, einmal zum ein- und einmal zum ausschalten.
 
 Und damit die Lampe nicht sofort wieder ausgeht, muß das Programm zwischen Ein- und Ausschalten eine Pause machen.
 Dazu verwendest Du den
