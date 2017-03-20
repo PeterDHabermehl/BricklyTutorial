@@ -90,7 +90,7 @@ Nachdem Du eine Lampe ein- und ausgeschaltet hast, wird es Dir sicher nicht schw
 ### Das Modell
 
 Schließe insgesamt drei Lampen an den TXT an. Benutze die Ausgänge O1 bis O3.
-![Lauflicht](/img/Im_HW_01_02_i02.png)
+![Im_HW_01_02_i02.png](/img/Im_HW_01_02_i02.png)
 
 ### Lösungshilfe
 
