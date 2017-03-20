@@ -66,6 +66,9 @@ Dazu verwendest Du den
 
     Er sorgt dafür, daß der Programmablauf für die angegebene Sekundenzahl angehalten wird.
 
+Denk darüber nach, was wann geschehen soll, und bringe die Bausteine dann in die passende Reihenfolge.
+Ein Klick auf "Los" zeigt Dir, ob alles richtig ist.
+
 ### Beispiellösung
 [Hier](/img/Tu_01_02.png) ist eine Lösung zu finden.
 
