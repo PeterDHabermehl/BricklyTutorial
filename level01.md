@@ -111,6 +111,12 @@ Viel Erfolg :-)
 
 Es gibt kein herunterladbares Beispielprogramm für diese Aufgabe.
 
+### Kreativ-Vorschlag
+
+Denk Dir andere Blinkmuster aus, laß die Lampen in anderer Reihenfolge an- und ausgehen, z.B. so:
+[Alle an - alle aus](/img/Tu_01_02b2.png)
+
+
 ***
 
 
